@@ -13,10 +13,11 @@ Built on [Arc2Face](https://github.com/foivospar/Arc2Face).
 </p>
 
 <p align="center">
-  <img src="assets/ppid_demo.gif" width="32%"/>
-  <img src="assets/ppid_demo2.gif" width="32%"/>
+  <img src="assets/ppid_demo.gif" height="260"/>
+  &nbsp;&nbsp;
+  <img src="assets/ppid_demo2.gif" height="260"/>
   <br/>
-  <em>Diverse protected faces under different seeds (Original at the end)</em>
+  <em>Diverse protected faces (different seeds; Original at the end)</em>
 </p>
 
 <p align="center">
